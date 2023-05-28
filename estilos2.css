@@ -290,12 +290,9 @@ margin: auto;
 }
 
 .listafootercontact {
-    grid-area: listafootercontact;
-    & td {
-        width: 25%;
-        text-align: center;
-    }
-}
+    grid-area: listafootercontact;}
+    
+
 
 .titulocontactofooter {
     text-align: center;
